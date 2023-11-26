@@ -15,7 +15,7 @@ else:
 
 name = ""
 
-color = random.choice(['\033[91m', '\033[92m', '\033[93m', '\033[94m', '\033[95m', '\033[96m'])
+color = random.choice(['\033[91m', '\033[92m', '\033[93m', '\033[94m', '\033[95m', '\033[96m', '\033[33m', '\033[32m', '\033[31m', '\033[36m', '\033[34m'])
 reset_color = "\033[0m"
 
 def get_username():
@@ -28,24 +28,11 @@ def get_username():
   print(f.CYAN + "│")
   name = input(f.CYAN + "└─[" + f.BLUE + "BAHAMAS-CH4T ~ USUARIO" + f.CYAN + "]>>" + f.RESET + " ")
 
-  if name.strip() == "n4ss4u" or name.strip() == "nassau" or name.strip() == "NASSAU" or name.strip() == "N4SS4U":
-    print("[!] El nombre de usuario esta reservdao, precione ENTER para reintentar.")
-    input()
-    os.system(clear_console)
-    get_username()
-
   if len(name.strip()) == 0:
     print("[!] El nombre de usuario esta vacio, precione ENTER para reintentar.")
     input()
     os.system(clear_console)
     get_username()
-
-  if len(name) > 12:
-    print("[!] El nombre de usuario no puede contener más de 12 caracteres, precione ENTER para reintentar.")
-    input()
-    os.system(clear_console)
-    get_username()
-
 
 def send(sock,addr):
    while True:
