@@ -4,7 +4,7 @@
 ------------
 
 # Imagen
-![No pudo cargar la imagen...]([https://github.com/n4ss4u/Bahamas-ch4t/blob/main/Screenshot_2023-11-11_15_00_35.png]))
+![No pudo cargar la imagen...](https://raw.githubusercontent.com/n4ss4u/Bahamas-ch4t/main/Screenshot_2023-11-11_15_00_35.png)
 
 ------------
 
