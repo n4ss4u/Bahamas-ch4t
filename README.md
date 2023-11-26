@@ -9,9 +9,9 @@
 ------------
 
 # SO donde ha sido probada
--Kali Linux
--Ubuntu
--Debian
+- Kali Linux
+- Ubuntu
+- Debian
 ------------
 
 
