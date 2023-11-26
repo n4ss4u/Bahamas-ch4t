@@ -16,5 +16,11 @@
 
 
 # Comandos para la instalación
-
+- apt update && apt-get upgrade -y
+- apt install git -y
+- apt install python3 -y
+- git clone https://github.com/n4ss4u/Bahamas-ch4t
+- cd Bahamas-ch4t
+- pip install -r requirements.txt
+- python3 bahamaschat.py
 ------------
