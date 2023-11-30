@@ -1,5 +1,5 @@
 # BAHAMAS-CH4T
-### Chat desde la terminal con conexiones a travez de sockets en python. 
+### Chatea desde una terminal por medio de conexiones sockets en un servidor privado. 
 
 ------------
 
