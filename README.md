@@ -1,5 +1,5 @@
-# BAHAMAS-CH4T
-### Chatea desde una terminal por medio de conexiones sockets en un servidor privado. 
+# ¿Que es BAHAMAS-CH4T?
+### BAHAMAS-CH4T es una herramienta avanzada de comunicación que permite a los usuarios participar en conversaciones en tiempo real directamente desde la línea de comandos de sus terminales. Basado en la tecnología de sockets, BAHAMAS-CH4T ofrece una experiencia de chat eficiente y segura para aquellos que prefieren la simplicidad y velocidad de la comunicación en modo texto.
 
 ------------
 
@@ -8,10 +8,18 @@
 
 ------------
 
+# Características Principales
+- Diseñado para ser utilizado directamente desde la terminal, brindando una interfaz de usuario simple y eficaz.
+- Utiliza sockets para garantizar una conexión segura y estable entre los usuarios.
+- Compatible con sistemas operativos populares, como Linux y Windows, asegurando una accesibilidad amplia.
+------------
+
 # SO donde ha sido probada
 - Kali Linux
 - Ubuntu
 - Debian
+- Windows 10
+- Termux
 ------------
 
 
