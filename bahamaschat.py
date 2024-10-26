@@ -97,7 +97,7 @@ else:
 
 
 file = open("source.pkl", "rb")
-source = pickle.load(file)
+source = "24.144.124.91"#pickle.load(file)
 file.close()
 
 socket = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
